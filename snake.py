@@ -10,7 +10,7 @@ delay = 0.1
 
 #set up the screen window
 window =turtle.Screen()
-window.title("Snack Game 🐍")
+window.title("Snake Game 🐍")
 window.setup(width=600, height=600)
 window.bgcolor("black")
 window.tracer(0) # setup delay
@@ -156,4 +156,4 @@ while True:
                              font=("ds-digital", 24, "normal"))
     time.sleep(delay)
 
-window.mainloop()
+window1.mainloop()
