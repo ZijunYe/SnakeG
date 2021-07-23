@@ -1,4 +1,4 @@
-# Snack Game
+# SnakE Game
 
 ## Method Implemented 
 	1. python turtle 
