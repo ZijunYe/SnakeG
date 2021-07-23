@@ -1,1 +1,1 @@
-# TerisGame
+# Snack Game
